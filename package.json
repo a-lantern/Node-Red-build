@@ -1,0 +1,15 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "json-db-node-red": "~0.5.3",
+        "node-red-contrib-gpsd": "~1.0.2",
+        "node-red-contrib-mqtt-broker": "~0.2.4",
+        "node-red-contrib-web-worldmap": "~1.5.39",
+        "node-red-contrib-xbee": "~1.1.0",
+        "node-red-contrib-xml": "0.0.6",
+        "node-red-node-serialport": "~0.8.1"
+    }
+}
